@@ -1,0 +1,8 @@
+# The client library used to communicate with Discord Servers
+aiohttp>=3.7.4.post0,<3.8.0
+
+# Additional libraries utilized by aiohttp for performance boost
+aiodns~=3.0.0
+Brotli~=1.0.9
+brotlipy~=0.7.0
+cchardet~=2.1.7
